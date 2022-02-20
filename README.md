@@ -4,5 +4,4 @@
 
 - deep learning framework assignment 1
 - deep learning framework assignment 2
-- custom batch normlization layer embeding to PyTorch(TODO).
 
